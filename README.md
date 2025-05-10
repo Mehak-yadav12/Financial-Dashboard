@@ -29,5 +29,9 @@ The best dashboard explaination format.
 - Business impact & insights
 
 Screenshot / Demos
+
 Example:-
-Financial-Dashboard - 
+
+Financial-Dashboard - https://github.com/Mehak-yadav12/Financial-Dashboard/blob/main/FINANCIAL%20DASHBOARD.pbix
+
+Financial-Dashboard Screenshot- 
