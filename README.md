@@ -34,4 +34,4 @@ Example:-
 
 Financial-Dashboard - https://github.com/Mehak-yadav12/Financial-Dashboard/blob/main/FINANCIAL%20DASHBOARD.pbix
 
-Financial-Dashboard Screenshot- 
+Financial-Dashboard Screenshot- https://github.com/Mehak-yadav12/Financial-Dashboard/blob/main/FINANCIAL%20DASHBOARD%20Screenshot.PNG
